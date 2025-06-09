@@ -1,0 +1,18 @@
+{
+    "elasticsearch": {
+        "host": "https://search-learning-s2ulslufdpv6gishw5dlkriek4.ap-northeast-1.es.amazonaws.com",
+        "auth": ["toUpdate", "toUpdate"]
+    },
+    "world": {
+        "width": 512,
+        "height": 512,
+        "population": {
+            "monkeys": 100,
+            "lions": 50,
+            "deers": 200
+        }
+    },
+    "performance": {
+        "FPS": 60
+    }
+}
