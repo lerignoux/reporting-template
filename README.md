@@ -13,6 +13,7 @@ Get python:
 * clone the repository:
   `git clone https://github.com/lerignoux/reporting-template.git`
   or `git clone git@bitbucket.org:lerignoux/reporting-tutorial.git`
+  or `https://gitee.com/lerignoux/reporting-tutorial`
 * Setup a virtual env
   `python -m venv venv`
   `venv/bin/activate.ps1`
